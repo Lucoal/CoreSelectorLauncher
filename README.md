@@ -1,4 +1,4 @@
-# CoreSelectorLauncher
+# ![Screenshot 1](Assets/Textures/icons8-processore-96.png) CoreSelectorLauncher
 
 A **Unity-based desktop tool** for advanced process management on Windows, allowing you to:
 - choose which **CPU cores** a process should use (CPU affinity)
