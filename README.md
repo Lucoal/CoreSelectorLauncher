@@ -6,7 +6,6 @@ A **Unity-based desktop tool** for advanced process management on Windows, allow
 - manage and **save favorites** for quick reuse
 
 
-
 ## Features
 
 ### CPU Core Selection
