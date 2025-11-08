@@ -12,11 +12,6 @@ public class RunWithAffinity : MonoBehaviour
     string bitmaskField;
     public TMP_Text debuginfo;
 
-    [Header("Favorites")]
-    public TMP_InputField InputField1;
-    public TMP_InputField InputField2;
-    public TMP_InputField InputField3;
-
 
     //Main Run
     public void RunWithAffinityLauncher()

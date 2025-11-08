@@ -144,7 +144,6 @@ public class FavoritesManager : MonoBehaviour
     // 🔹 Azione quando si preme Start su un preferito
     private void OnStartFavorite(string value)
     {
-        // Qui metti la tua logica personalizzata
         Debug.Log($"[FavoritesManager] Avvio processo con valore: {value}");
 
         if(value != "" || value != null) runWithAffinity.RunFavoriteWithAffinityLauncher(value);
