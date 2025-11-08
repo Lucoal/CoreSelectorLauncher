@@ -1,4 +1,4 @@
-# <p align="center"><img src="Assets/Textures/icons8-processore-96.png" width="500" /></p> CoreSelectorLauncher
+# <img src="Assets/Textures/icons8-processore-96.png" width="50" align="center"> **CoreSelectorLauncher**
 
 A **Unity-based desktop tool** for advanced process management on Windows, allowing you to:
 - choose which **CPU cores** a process should use (CPU affinity)
